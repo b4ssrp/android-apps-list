@@ -3,6 +3,10 @@ List of free and cool android applications,
 from calculators to music players.
 ## Table of content
 
+* [Customization](#customization)
+
+* [Launchers](#launchers)
+
 * [Music](#music)
 
 
@@ -12,6 +16,12 @@ from calculators to music players.
 
 * [Web Browsers](#web-browsers)
 
+## Customization
+
+## Launchers
+* KISS
+* Lawnchair
+* Trebuchet
 ## Music
 
 ## Social
