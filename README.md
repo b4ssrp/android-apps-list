@@ -20,7 +20,7 @@ from calculators to music players.
 
 # Web Browsers
 ##  Jelly [(description)]( #jelly )
-<ul style="list-style-type:none">
+<ul style="list-style-type:none;">
 	<li>Item 1</li>
 	*Item 2
 </ul>
