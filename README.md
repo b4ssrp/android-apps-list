@@ -1,4 +1,4 @@
-# Awesome android apps list
+# Cool android apps list
 List of free and cool android applications,
 from calculators to music players.
 # Table of content
@@ -19,8 +19,5 @@ from calculators to music players.
 # Tools
 
 # Web Browsers
-##  Jelly [(description)]( #jelly )
-<ul style="list-style-type:none;">
-	<li>Item 1</li>
-	*Item 2
-</ul>
+* Jelly [![ Jelly ]
+(https://images.apkscraper.com/2017/11/LineageOS-Jelly-Browser-APK-Logo-150x150.png)](https://github.com)  [(description)]( #jelly )
