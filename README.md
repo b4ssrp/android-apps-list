@@ -19,5 +19,4 @@ from calculators to music players.
 # Tools
 
 # Web Browsers
-* Jelly [![ Jelly ]
-(https://images.apkscraper.com/2017/11/LineageOS-Jelly-Browser-APK-Logo-150x150.png)](https://github.com)  [(description)]( #jelly )
+* Jelly [![ Jelly ](https://images.apkscraper.com/2017/11/LineageOS-Jelly-Browser-APK-Logo-150x150.png)](https://github.com)  [(description)]( #jelly )
