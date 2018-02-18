@@ -4,7 +4,7 @@ from calculators to music players.
 ## Table of content
 
 * [ Customization ]( #customization )
-
+* [ Images ]( #images )
 * [ Launchers ]( #launchers )
 
 * [ Music ]( #music )
@@ -17,6 +17,8 @@ from calculators to music players.
 
 ## Customization
 
+## Images
+* Photo Editor ( [ Google Play ]( https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor ) ) - image manipulation app like GIMP.
 ## Launchers
 * [ KISS ]( https://github.com/Neamar/KISS ) ( [ Google Play ]( https://play.google.com/store/apps/details?id=fr.neamar.kiss ) )
 * [ Lawnchair ]( https://github.com/LawnchairLauncher/Lawnchair ) ( [ Google Play ]( https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah ) )
