@@ -19,7 +19,7 @@ from calculators to music players.
 
 ## Launchers
 * [ KISS ]( https://github.com/Neamar/KISS )
-* [ Lawnchair ]( https://github.com/LawnchairLauncher/Lawnchair ) [ ![ Lawnchair ]( https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/2000px-Get_it_on_Google_play.svg ) ]( https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah )
+* [ Lawnchair ]( https://github.com/LawnchairLauncher/Lawnchair ) [ ![ Lawnchair ]( https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/2000px-Get_it_on_Google_play.svg.png ) ]( https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah )
 * [ Trebuchet ]( https://github.com/CyanogenMod/android_packages_apps_Trebuchet )
 ## Music
 
