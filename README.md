@@ -18,7 +18,7 @@ from calculators to music players.
 ## Customization
 
 ## Launchers
-* [ KISS ]( https://github.com/Neamar/KISS ) ( [ Google Play ] ( https://play.google.com/store/apps/details?id=fr.neamar.kiss ) )
+* [ KISS ]( https://github.com/Neamar/KISS ) ( [ Google Play ]( https://play.google.com/store/apps/details?id=fr.neamar.kiss ) )
 * [ Lawnchair ]( https://github.com/LawnchairLauncher/Lawnchair ) ( [ Google Play ]( https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah ) )
 * [ Trebuchet ]( https://github.com/CyanogenMod/android_packages_apps_Trebuchet )
 ## Music
