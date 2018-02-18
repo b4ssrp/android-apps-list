@@ -9,7 +9,6 @@ from calculators to music players.
 
 * [ Music ]( #music )
 
-
 * [ Social ]( #social )
 
 * [ Tools ]( #tools )
